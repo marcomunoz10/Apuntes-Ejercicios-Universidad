@@ -1,0 +1,1 @@
+El **redondeo aritmético** es una técnica utilizada para aproximar un número que no se puede representar de manera exacta debido a limitaciones de precisión (por ejemplo, en el caso de representaciones en coma flotante o números con una cantidad limitada de bits).

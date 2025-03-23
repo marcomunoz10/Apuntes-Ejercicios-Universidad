@@ -1,0 +1,3 @@
+Password Stretching o iterated hashing es una técnica que hacer la contraseña hash más costosa computacionalmente hablando. Se trata de aplicar la función hash de manera iterada. Hoy en dia es conocido como _Key Derivation Functions_ (KDF).
+
+En cada iteración se concatena el hash anterior con la contraseña y un salt en varias formas alternativas. La cadena final se presenta como una codificación en base 64.

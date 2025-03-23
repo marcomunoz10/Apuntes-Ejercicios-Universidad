@@ -1,0 +1,1 @@
+Las funciones kernel se ejecutan en el device.

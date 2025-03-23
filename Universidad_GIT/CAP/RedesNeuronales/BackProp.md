@@ -1,0 +1,1 @@
+La funció `back_prop` és la part de la **retropropagació** en una xarxa neuronal. Aquesta fase és crucial per ajustar els pesos i els biaixos de la xarxa després de calcular l'error entre la sortida esperada i la sortida obtinguda. El seu objectiu és calcular els gradients que s'utilitzaran per actualitzar els pesos i els biaixos de la xarxa.

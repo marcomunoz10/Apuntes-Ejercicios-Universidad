@@ -1,0 +1,1 @@
+El directorio **`/etc/apache2/sites-available`** en servidores Apache es un lugar donde se almacenan los **archivos de configuración de sitios virtuales** (virtual hosts) que aún no están habilitados.

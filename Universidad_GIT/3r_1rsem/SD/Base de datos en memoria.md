@@ -1,0 +1,1 @@
+Las bases de datos en memoria (IMDB, por sus siglas en inglés: **In-Memory Database**) son sistemas de gestión de bases de datos que almacenan los datos directamente en la **memoria RAM** en lugar de en discos duros o SSDs. Esto las hace mucho más rápidas en comparación con las bases de datos tradicionales, que dependen de operaciones en disco.

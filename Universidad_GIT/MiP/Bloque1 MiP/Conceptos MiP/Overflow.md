@@ -1,0 +1,1 @@
+**Overflow** ocurre cuando un cálculo genera un número que excede el rango máximo que puede ser representado en la arquitectura de números utilizada (por ejemplo, en una variable de 32 bits).

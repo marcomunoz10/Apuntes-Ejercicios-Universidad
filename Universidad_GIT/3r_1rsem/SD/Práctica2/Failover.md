@@ -1,0 +1,1 @@
+Cambio de un sistema principal a uno secundario en caso de que el principal falle.

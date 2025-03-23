@@ -1,0 +1,1 @@
+Un _data mart_ és una part específica d’un _data warehouse_ que emmagatzema dades enfocades en un àmbit o departament concret d’una organització, com ara vendes, màrqueting, o finances. Mentre que el _data warehouse_ centralitza totes les dades de l'empresa, els _data marts_ filtren i organitzen només la informació rellevant per a un ús particular.

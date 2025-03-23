@@ -1,0 +1,1 @@
+**Mecanismo de seguridad** utilizado en sistemas embebidos o microcontroladores para **monitorear el funcionamiento del sistema** y asegurarse de que el software esté ejecutándose correctamente. Si el sistema entra en un **estado de error** o se **bloquea**, el watchdog toma acción para **reiniciar el sistema** y restaurarlo a un estado operativo.

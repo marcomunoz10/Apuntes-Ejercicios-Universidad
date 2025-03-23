@@ -1,0 +1,1 @@
+Un **data warehouse** (almacén de datos) es un sistema de almacenamiento centralizado diseñado específicamente para recopilar, organizar y analizar grandes cantidades de datos provenientes de múltiples fuentes. Su principal objetivo es proporcionar una infraestructura eficiente y estructurada para la toma de decisiones basada en datos

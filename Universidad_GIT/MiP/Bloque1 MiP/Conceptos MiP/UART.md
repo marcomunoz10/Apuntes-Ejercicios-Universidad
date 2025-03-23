@@ -1,0 +1,1 @@
+**UART** (Universal Asynchronous Receiver/Transmitter) es un protocolo de comunicación serie asíncrona utilizado para la transmisión de datos entre dispositivos electrónicos. Es una forma común de comunicación entre microcontroladores, computadoras y otros dispositivos como sensores, módulos de comunicación (como Bluetooth, GPS), y más.

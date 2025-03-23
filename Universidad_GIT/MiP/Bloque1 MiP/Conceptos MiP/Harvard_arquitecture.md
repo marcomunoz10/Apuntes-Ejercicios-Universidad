@@ -1,0 +1,3 @@
+La arquitectura **Harvard** usa buses separados para instrucciones y datos, lo que implica más conexiones físicas. Implementarla **fuera del chip** requeriría más pines para manejar ambos buses, lo que aumenta la complejidad del hardware.
+
+Por esta razón, la mayoría de los microprocesadores y microcontroladores usan **arquitectura Harvard dentro del chip** (en su memoria interna) pero adoptan una **arquitectura Von Neumann fuera del chip**, compartiendo un único bus para reducir el número de pines.

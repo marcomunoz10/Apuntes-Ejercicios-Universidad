@@ -1,0 +1,1 @@
+servei que em permet llegir una carpeta de correu remot. `imapd` s'utilitza cada cop que s'obre la carpeta de correu. `Inetd` conjunta serveis q tenen poca utilització. 

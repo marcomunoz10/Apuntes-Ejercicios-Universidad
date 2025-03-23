@@ -1,0 +1,3 @@
+Un microcontrolador CISC (**Complex Intstruction Set Computer**) tiene un conjunto de instrucciones amplio y complejo que se utiliza para realizar tareas en menos líneas de código, pero no están **siempre** optimizados para una aplicación concreta. 
+
+Existen microcontroladores **RISC (Reduced Instruction Set Computer)** que, aunque tienen un repertorio más pequeño de instrucciones, pueden ser muy eficientes en aplicaciones concretas gracias a su simplicidad y velocidad de ejecución.

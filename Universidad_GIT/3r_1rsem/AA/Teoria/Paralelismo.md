@@ -1,0 +1,5 @@
+Los ordenadores explotan el paralelismo de varias maneras:
+
+1. **Paralelismo a nivel de instrucciones (Instruction-Level Parallelism, ILP):** Ejecutar varias instrucciones al mismo tiempo.
+2. **Paralelismo a nivel de datos (Data-Level Parallelism, DLP):** Ejecutar la misma operación simultáneamente sobre múltiples elementos de datos (datos agrupados en vectores, instrucciones vectoriales = instrucciones SIMD).
+3. **Paralelismo a nivel de hilos (Thread-Level Parallelism, TLP):** Ejecutar varios programas (flujos de ejecución o hilos) simultáneamente. El hardware ofrece computación MIMD (Multiple instructions multiple data) al proporcionar diferentes núcleos de ejecución en varios chips de procesador, y también permite la ejecución simultánea de 2 o más hilos dentro del mismo núcleo de ejecución.

@@ -1,0 +1,1 @@
+El **overhead** se refiere al **trabajo adicional o gasto computacional** que no contribuye directamente al resultado principal de una tarea, pero que es necesario para su ejecución. En otras palabras, es el "costo extra" asociado al control, coordinación, o gestión de una operación, en lugar del trabajo productivo propiamente dicho.

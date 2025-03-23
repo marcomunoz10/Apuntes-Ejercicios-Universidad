@@ -1,0 +1,1 @@
+La modulación por **ancho de pulsos** o PWM (Pulse Width Modulation) es una técnica que se basa en, dada una señal de referencia (señal sinusoidal por ejemplo), modular una segunda señal (señal triangular por ejemplo), para tener una señal cuadrada de **anchura** variable en función de las dos señales anteriores.

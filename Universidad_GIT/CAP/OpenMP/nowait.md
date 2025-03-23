@@ -1,0 +1,1 @@
+La opción `nowait` en `#pragma omp sections nowait` evita que los threads esperen a que todas las secciones terminen antes de continuar. Esto mejora la eficiencia porque permite que los threads que terminan antes puedan reutilizarse en otras tareas si estuvieran definidas después.

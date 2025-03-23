@@ -1,0 +1,1 @@
+Tiene que cumplir las restricciones de tiempo. Ni más rápido ni más lento, tiene que actuar en el momento preciso a los requisitos.

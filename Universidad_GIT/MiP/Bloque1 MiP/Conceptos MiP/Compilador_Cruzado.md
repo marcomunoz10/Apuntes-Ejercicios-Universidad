@@ -1,0 +1,1 @@
+Tipo de compilador **que genera código máquina** para una arquitectura diferente a la que está ejecutando el compilador. Permite generar código par otro tipo de microcontrolador  o procesador
