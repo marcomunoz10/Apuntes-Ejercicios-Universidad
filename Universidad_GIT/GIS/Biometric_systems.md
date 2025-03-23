@@ -1,6 +1,9 @@
+Es la ciencia de verificar y establecer la identidad de un usuario mediante características fisiológicas o rasgos de conducta:
+* **Physical**: fingerprint, hand geometry, iris pattern, DNA.
+* **Behavioral**: handwriting, signature, speech.
 ### **Criterios de Evaluación de la Biometría**
 
-Para que un sistema biométrico sea efectivo, debe cumplir ciertos criterios de evaluación. A continuación, te explico cada uno de ellos:
+Para que un sistema biométrico sea efectivo, debe cumplir ciertos criterios de evaluación. A continuación, explico cada uno de ellos:
 
 ---
 
