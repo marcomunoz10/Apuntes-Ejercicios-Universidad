@@ -1,1 +1,0 @@
-**"Out of Order Execution"** (Ejecución fuera de orden) se refiere a la capacidad de un procesador de ejecutar instrucciones en un orden diferente al de la secuencia programada, para optimizar el uso de los recursos del procesador y mejorar el rendimiento.
