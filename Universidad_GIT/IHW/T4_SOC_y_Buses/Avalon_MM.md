@@ -1,0 +1,3 @@
+Avalon-MM (Avalon Memory-Mapped) es una especificación de interfaz desarrollada por Intel para simplificar el diseño de sistemas en FPGA. Define una interfaz de lectura/escritura basada en direcciones, típica de conexiones entre un host y un agente, facilitando la comunicación entre componentes como microprocesadores, memorias y periféricos dentro de un sistema. 
+
+Entre sus características destacadas se incluyen líneas separadas de dirección, datos y control, operación síncrona optimizada para periféricos en chip, y tamaños de datos de hasta 1024 bits. Además, permite la conexión flexible de módulos maestros y esclavos sin necesidad de conocimientos previos sobre sus interfaces específicas.
